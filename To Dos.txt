@@ -1,0 +1,12 @@
+dutch national flag
+    https://www.geeksforgeeks.org/3-way-quicksort-dutch-national-flag/
+
+intersection of 2 arrays
+    https://leetcode.com/problems/intersection-of-two-arrays/
+
+Week 5 Lecture 2 HOMEWORK
+Week 5 Lecture 3 HOMEWORK
+Week 6 Lecture 3 HOMEWORK (segmented sieve)
+Week 7 HOMEWORK 
+
+make a folder of implementations of all inbuilt functions

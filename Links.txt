@@ -1,0 +1,39 @@
+variable naming conventions in C++
+    https://www.geeksforgeeks.org/naming-convention-in-c/
+
+cout<<(++a)*(++a);
+    https://gynvael.coldwind.pl/?id=372
+
+Interesting facts about switch statement
+    https://www.geeksforgeeks.org/interesting-facts-about-switch-statement-in-c/
+
+meaning of return 0, 1, -1 in c++
+    https://www.geeksforgeeks.org/return-0-vs-return-1-in-c/
+
+parameters in main function
+    https://www.ibm.com/docs/en/zos/2.2.0?topic=functions-main-function
+
+right shift in negative number
+    https://learn.microsoft.com/en-us/cpp/cpp/left-shift-and-right-shift-operators-input-and-output?view=msvc-170 
+
+memset function
+    https://www.geeksforgeeks.org/memset-in-cpp/
+
+iterator
+    https://www.geeksforgeeks.org/iterators-c-stl/
+
+auto keyword
+    https://www.geeksforgeeks.org/type-inference-in-c-auto-and-decltype/
+
+getline
+    https://www.geeksforgeeks.org/getline-string-c/
+
+max_element
+    https://www.geeksforgeeks.org/max_element-in-cpp/
+
+sort
+    https://www.geeksforgeeks.org/internal-details-of-stdsort-in-c/
+
+function pointer
+    https://www.geeksforgeeks.org/function-pointer-in-cpp/
+
